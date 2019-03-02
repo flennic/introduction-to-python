@@ -1,0 +1,330 @@
+{
+  "project": {
+    "successors": {
+      "gutenbergs": 1,
+      "gutenberg": 1
+    },
+    "count": 2
+  },
+  "gutenbergs": {
+    "successors": {
+      "the": 1
+    },
+    "count": 1
+  },
+  "the": {
+    "successors": {
+      "complete": 1,
+      "use": 1,
+      "united": 1,
+      "world": 1,
+      "terms": 1,
+      "laws": 1,
+      "country": 1
+    },
+    "count": 9
+  },
+  "complete": {
+    "successors": {
+      "works": 1
+    },
+    "count": 1
+  },
+  "works": {
+    "successors": {
+      "of": 1
+    },
+    "count": 1
+  },
+  "of": {
+    "successors": {
+      "william": 1,
+      "anyone": 1
+    },
+    "count": 5
+  },
+  "william": {
+    "successors": {
+      "shakespeare": 1
+    },
+    "count": 2
+  },
+  "shakespeare": {
+    "successors": {
+      "by": 1
+    },
+    "count": 2
+  },
+  "by": {
+    "successors": {},
+    "count": 1
+  },
+  "this": {
+    "successors": {
+      "ebook": 1
+    },
+    "count": 2
+  },
+  "ebook": {
+    "successors": {
+      "is": 1
+    },
+    "count": 2
+  },
+  "is": {
+    "successors": {
+      "for": 1
+    },
+    "count": 1
+  },
+  "for": {
+    "successors": {},
+    "count": 1
+  },
+  "use": {
+    "successors": {},
+    "count": 1
+  },
+  "anyone": {
+    "successors": {
+      "anywhere": 1
+    },
+    "count": 1
+  },
+  "anywhere": {
+    "successors": {
+      "in": 1
+    },
+    "count": 1
+  },
+  "in": {
+    "successors": {},
+    "count": 2
+  },
+  "united": {
+    "successors": {
+      "states": 1
+    },
+    "count": 2
+  },
+  "states": {
+    "successors": {
+      "and": 1,
+      "youll": 1
+    },
+    "count": 2
+  },
+  "and": {
+    "successors": {
+      "with": 1
+    },
+    "count": 2
+  },
+  "most": {
+    "successors": {
+      "other": 1
+    },
+    "count": 1
+  },
+  "other": {
+    "successors": {
+      "parts": 1
+    },
+    "count": 1
+  },
+  "parts": {
+    "successors": {},
+    "count": 1
+  },
+  "world": {
+    "successors": {
+      "at": 1
+    },
+    "count": 1
+  },
+  "at": {
+    "successors": {
+      "no": 1
+    },
+    "count": 2
+  },
+  "no": {
+    "successors": {
+      "cost": 1,
+      "restrictions": 1
+    },
+    "count": 2
+  },
+  "cost": {
+    "successors": {},
+    "count": 1
+  },
+  "with": {
+    "successors": {
+      "almost": 1
+    },
+    "count": 2
+  },
+  "almost": {
+    "successors": {},
+    "count": 1
+  },
+  "restrictions": {
+    "successors": {},
+    "count": 1
+  },
+  "whatsoever": {
+    "successors": {
+      "you": 1
+    },
+    "count": 1
+  },
+  "you": {
+    "successors": {
+      "may": 1,
+      "are": 1
+    },
+    "count": 3
+  },
+  "may": {
+    "successors": {
+      "copy": 1
+    },
+    "count": 1
+  },
+  "copy": {
+    "successors": {
+      "it": 1
+    },
+    "count": 1
+  },
+  "it": {
+    "successors": {
+      "give": 1,
+      "away": 1,
+      "under": 1
+    },
+    "count": 3
+  },
+  "give": {
+    "successors": {},
+    "count": 1
+  },
+  "away": {
+    "successors": {
+      "or": 1
+    },
+    "count": 1
+  },
+  "or": {
+    "successors": {
+      "reuse": 1,
+      "online": 1
+    },
+    "count": 2
+  },
+  "reuse": {
+    "successors": {},
+    "count": 1
+  },
+  "under": {
+    "successors": {},
+    "count": 1
+  },
+  "terms": {
+    "successors": {},
+    "count": 1
+  },
+  "gutenberg": {
+    "successors": {
+      "license": 1
+    },
+    "count": 1
+  },
+  "license": {
+    "successors": {
+      "included": 1
+    },
+    "count": 1
+  },
+  "included": {
+    "successors": {},
+    "count": 1
+  },
+  "online": {
+    "successors": {},
+    "count": 1
+  },
+  "wwwgutenbergorg": {
+    "successors": {
+      "if": 1
+    },
+    "count": 1
+  },
+  "if": {
+    "successors": {},
+    "count": 1
+  },
+  "are": {
+    "successors": {
+      "not": 1
+    },
+    "count": 2
+  },
+  "not": {
+    "successors": {
+      "located": 1
+    },
+    "count": 1
+  },
+  "located": {
+    "successors": {
+      "before": 1
+    },
+    "count": 2
+  },
+  "youll": {
+    "successors": {},
+    "count": 1
+  },
+  "have": {
+    "successors": {
+      "to": 1
+    },
+    "count": 1
+  },
+  "to": {
+    "successors": {
+      "check": 1
+    },
+    "count": 1
+  },
+  "check": {
+    "successors": {},
+    "count": 1
+  },
+  "laws": {
+    "successors": {},
+    "count": 1
+  },
+  "country": {
+    "successors": {
+      "where": 1
+    },
+    "count": 1
+  },
+  "where": {
+    "successors": {},
+    "count": 1
+  },
+  "before": {
+    "successors": {
+      "using": 1
+    },
+    "count": 1
+  },
+  "using": {
+    "successors": {},
+    "count": 1
+  }
+}
