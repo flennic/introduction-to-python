@@ -1,0 +1,36 @@
+
+
+The given file contains 959191 words where 30896 words are unique.
+
+The most common letters are:
+[('e', 480970), ('t', 354107), ('o', 332717)]
+
+The most common words and successors are:
+
+the (30096 occurrences)
+-- king, 755
+-- world, 442
+-- duke, 367
+
+and (28371 occurrences)
+-- the, 855
+-- i, 792
+-- so, 433
+
+i (21890 occurrences)
+-- am, 1958
+-- have, 1709
+-- will, 1624
+
+to (20895 occurrences)
+-- the, 1560
+-- be, 1044
+-- me, 508
+
+of (18816 occurrences)
+-- the, 1623
+-- my, 760
+-- his, 635
+
+
+
