@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import sys
 import os.path
 import re
@@ -9,7 +10,7 @@ import operator
 def parse_file(filepath):
 
     if not os.path.isfile(filepath):
-        raise ValueError("File does not exists.")
+        raise ValueError("The given file does not exist.")
 
     word_list = {}
     alphabet_frequency = {}
@@ -108,6 +109,7 @@ if __name__ == "__main__":
         print("INVALID NUMBER OF ARGUMENTS. Arguments are:")
         print("(Mandatory) filepath: Path to the text file which should be analyzed.")
         print("(Optional) filepath: Path to an output file where to store the analyzed data.")
+        sys.exit()
 
     try:
         file_stats = parse_file(sys.argv[1])
@@ -133,7 +135,7 @@ if __name__ == "__main__":
                 file.write("\n\n")
 
     except ValueError:
-        print("The file does not exist")
+        print("The given file does not exist.")
     except IOError:
         print("Cannot read file. Aborting.")
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import sys
 import random
 
@@ -31,10 +32,11 @@ try:
     n = int(sys.argv[3])
     words_statistics = parse_file(sys.argv[1])[0]
 except:
-    print("Exactly three arguments must be supplied:"
+    print("Exactly three arguments must be supplied:\n"
           "1) The file from which to extract the word statistics\n"
           "2) and a starting word\n"
           "3) the number of words to generate.\n")
+    sys.exit()
 
 
 generated_text = current_word
